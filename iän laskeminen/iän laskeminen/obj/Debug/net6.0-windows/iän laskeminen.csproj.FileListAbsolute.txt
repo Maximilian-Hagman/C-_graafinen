@@ -1,0 +1,17 @@
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\bin\Debug\net6.0-windows\iän laskeminen.exe
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\bin\Debug\net6.0-windows\iän laskeminen.deps.json
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\bin\Debug\net6.0-windows\iän laskeminen.runtimeconfig.json
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\bin\Debug\net6.0-windows\iän laskeminen.dll
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\bin\Debug\net6.0-windows\iän laskeminen.pdb
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\obj\Debug\net6.0-windows\iän laskeminen.csproj.AssemblyReference.cache
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\obj\Debug\net6.0-windows\iän_laskeminen.Form1.resources
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\obj\Debug\net6.0-windows\iän laskeminen.csproj.GenerateResource.cache
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\obj\Debug\net6.0-windows\iän laskeminen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\obj\Debug\net6.0-windows\iän laskeminen.AssemblyInfoInputs.cache
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\obj\Debug\net6.0-windows\iän laskeminen.AssemblyInfo.cs
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\obj\Debug\net6.0-windows\iän laskeminen.csproj.CoreCompileInputs.cache
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\obj\Debug\net6.0-windows\iän laskeminen.dll
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\obj\Debug\net6.0-windows\refint\iän laskeminen.dll
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\obj\Debug\net6.0-windows\iän laskeminen.pdb
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\obj\Debug\net6.0-windows\iän laskeminen.genruntimeconfig.cache
+C:\Users\maximilian.hagman\source\repos\iän laskeminen\iän laskeminen\obj\Debug\net6.0-windows\ref\iän laskeminen.dll
