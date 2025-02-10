@@ -1,0 +1,17 @@
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\obj\Debug\net6.0-windows\Harj_8.csproj.AssemblyReference.cache
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\obj\Debug\net6.0-windows\Harj_8.Form1.resources
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\obj\Debug\net6.0-windows\Harj_8.csproj.GenerateResource.cache
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\obj\Debug\net6.0-windows\Harj_8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\obj\Debug\net6.0-windows\Harj_8.AssemblyInfoInputs.cache
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\obj\Debug\net6.0-windows\Harj_8.AssemblyInfo.cs
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\obj\Debug\net6.0-windows\Harj_8.csproj.CoreCompileInputs.cache
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\bin\Debug\net6.0-windows\Harj_8.exe
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\bin\Debug\net6.0-windows\Harj_8.deps.json
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\bin\Debug\net6.0-windows\Harj_8.runtimeconfig.json
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\bin\Debug\net6.0-windows\Harj_8.dll
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\bin\Debug\net6.0-windows\Harj_8.pdb
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\obj\Debug\net6.0-windows\Harj_8.dll
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\obj\Debug\net6.0-windows\refint\Harj_8.dll
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\obj\Debug\net6.0-windows\Harj_8.pdb
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\obj\Debug\net6.0-windows\Harj_8.genruntimeconfig.cache
+C:\Users\maximilian.hagman\source\repos\Harj_8\Harj_8\obj\Debug\net6.0-windows\ref\Harj_8.dll
