@@ -1,0 +1,17 @@
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\obj\Debug\net6.0-windows\Harj_9.csproj.AssemblyReference.cache
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\obj\Debug\net6.0-windows\Harj_9.Form1.resources
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\obj\Debug\net6.0-windows\Harj_9.csproj.GenerateResource.cache
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\obj\Debug\net6.0-windows\Harj_9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\obj\Debug\net6.0-windows\Harj_9.AssemblyInfoInputs.cache
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\obj\Debug\net6.0-windows\Harj_9.AssemblyInfo.cs
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\obj\Debug\net6.0-windows\Harj_9.csproj.CoreCompileInputs.cache
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\bin\Debug\net6.0-windows\Harj_9.exe
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\bin\Debug\net6.0-windows\Harj_9.deps.json
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\bin\Debug\net6.0-windows\Harj_9.runtimeconfig.json
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\bin\Debug\net6.0-windows\Harj_9.dll
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\bin\Debug\net6.0-windows\Harj_9.pdb
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\obj\Debug\net6.0-windows\Harj_9.dll
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\obj\Debug\net6.0-windows\refint\Harj_9.dll
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\obj\Debug\net6.0-windows\Harj_9.pdb
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\obj\Debug\net6.0-windows\Harj_9.genruntimeconfig.cache
+C:\Users\maximilian.hagman\source\repos\Harj_9\Harj_9\obj\Debug\net6.0-windows\ref\Harj_9.dll
