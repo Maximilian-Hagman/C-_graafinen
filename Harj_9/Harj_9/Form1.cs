@@ -29,5 +29,10 @@ namespace Harj_9
                 VastausLB.Visible = true;
             }
         }
+
+        private void CelsiusRB_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

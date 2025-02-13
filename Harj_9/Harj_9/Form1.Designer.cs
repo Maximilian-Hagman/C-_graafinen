@@ -34,7 +34,8 @@
             this.MuunnaBT = new System.Windows.Forms.Button();
             this.CelsiusRB = new System.Windows.Forms.RadioButton();
             this.FahrenheitRB = new System.Windows.Forms.RadioButton();
-            this.label3 = new System.Windows.Forms.Label();
+            this.groupBox1 = new System.Windows.Forms.GroupBox();
+            this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
             // VastausLB
@@ -65,7 +66,7 @@
             // 
             // MuunnaBT
             // 
-            this.MuunnaBT.Location = new System.Drawing.Point(304, 30);
+            this.MuunnaBT.Location = new System.Drawing.Point(312, 30);
             this.MuunnaBT.Name = "MuunnaBT";
             this.MuunnaBT.Size = new System.Drawing.Size(75, 23);
             this.MuunnaBT.TabIndex = 3;
@@ -76,18 +77,19 @@
             // CelsiusRB
             // 
             this.CelsiusRB.AutoSize = true;
-            this.CelsiusRB.Location = new System.Drawing.Point(204, 26);
+            this.CelsiusRB.Location = new System.Drawing.Point(6, 45);
             this.CelsiusRB.Name = "CelsiusRB";
             this.CelsiusRB.Size = new System.Drawing.Size(62, 19);
             this.CelsiusRB.TabIndex = 4;
             this.CelsiusRB.TabStop = true;
             this.CelsiusRB.Text = "Celsius";
             this.CelsiusRB.UseVisualStyleBackColor = true;
+            this.CelsiusRB.CheckedChanged += new System.EventHandler(this.CelsiusRB_CheckedChanged);
             // 
             // FahrenheitRB
             // 
             this.FahrenheitRB.AutoSize = true;
-            this.FahrenheitRB.Location = new System.Drawing.Point(204, 51);
+            this.FahrenheitRB.Location = new System.Drawing.Point(6, 22);
             this.FahrenheitRB.Name = "FahrenheitRB";
             this.FahrenheitRB.Size = new System.Drawing.Size(81, 19);
             this.FahrenheitRB.TabIndex = 5;
@@ -95,29 +97,31 @@
             this.FahrenheitRB.Text = "Fahrenheit";
             this.FahrenheitRB.UseVisualStyleBackColor = true;
             // 
-            // label3
+            // groupBox1
             // 
-            this.label3.AutoSize = true;
-            this.label3.Location = new System.Drawing.Point(203, 8);
-            this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(95, 15);
-            this.label3.TabIndex = 6;
-            this.label3.Text = "Miten muunnat?";
+            this.groupBox1.Controls.Add(this.CelsiusRB);
+            this.groupBox1.Controls.Add(this.FahrenheitRB);
+            this.groupBox1.Location = new System.Drawing.Point(196, 12);
+            this.groupBox1.Name = "groupBox1";
+            this.groupBox1.Size = new System.Drawing.Size(110, 72);
+            this.groupBox1.TabIndex = 7;
+            this.groupBox1.TabStop = false;
+            this.groupBox1.Text = "Miten muunnat?";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(389, 112);
-            this.Controls.Add(this.label3);
-            this.Controls.Add(this.FahrenheitRB);
-            this.Controls.Add(this.CelsiusRB);
+            this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.MuunnaBT);
             this.Controls.Add(this.AsteetTB);
             this.Controls.Add(this.label2);
             this.Controls.Add(this.VastausLB);
             this.Name = "Form1";
             this.Text = "Form1";
+            this.groupBox1.ResumeLayout(false);
+            this.groupBox1.PerformLayout();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -131,6 +135,6 @@
         private Button MuunnaBT;
         private RadioButton CelsiusRB;
         private RadioButton FahrenheitRB;
-        private Label label3;
+        private GroupBox groupBox1;
     }
 }
