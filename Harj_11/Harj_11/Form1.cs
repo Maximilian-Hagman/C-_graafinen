@@ -16,6 +16,7 @@ namespace Harj_11
         {
             piirraNoppa(Noppa01PB);
             piirraNoppa(Noppa02PB);
+
         }
         private void piirraNoppa(PictureBox NoppaBox)
         {

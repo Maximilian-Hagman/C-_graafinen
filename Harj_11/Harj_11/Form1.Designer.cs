@@ -60,7 +60,7 @@
             // 
             // Noppa01PB
             // 
-            this.Noppa01PB.Image = global::Harj_11.Properties.Resources.dice06__1_;
+            this.Noppa01PB.Image = global::Harj_11.Properties.Resources.rollingDice__1_;
             this.Noppa01PB.Location = new System.Drawing.Point(239, 101);
             this.Noppa01PB.Name = "Noppa01PB";
             this.Noppa01PB.Size = new System.Drawing.Size(119, 113);
@@ -70,7 +70,7 @@
             // 
             // Noppa02PB
             // 
-            this.Noppa02PB.Image = global::Harj_11.Properties.Resources.dice02__1_;
+            this.Noppa02PB.Image = global::Harj_11.Properties.Resources.rollingDice__1_;
             this.Noppa02PB.Location = new System.Drawing.Point(388, 101);
             this.Noppa02PB.Name = "Noppa02PB";
             this.Noppa02PB.Size = new System.Drawing.Size(110, 114);
