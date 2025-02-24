@@ -1,0 +1,17 @@
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\bin\Debug\net6.0-windows\Harj_13.exe
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\bin\Debug\net6.0-windows\Harj_13.deps.json
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\bin\Debug\net6.0-windows\Harj_13.runtimeconfig.json
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\bin\Debug\net6.0-windows\Harj_13.dll
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\bin\Debug\net6.0-windows\Harj_13.pdb
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\obj\Debug\net6.0-windows\Harj_13.csproj.AssemblyReference.cache
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\obj\Debug\net6.0-windows\Harj_13.Form1.resources
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\obj\Debug\net6.0-windows\Harj_13.csproj.GenerateResource.cache
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\obj\Debug\net6.0-windows\Harj_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\obj\Debug\net6.0-windows\Harj_13.AssemblyInfoInputs.cache
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\obj\Debug\net6.0-windows\Harj_13.AssemblyInfo.cs
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\obj\Debug\net6.0-windows\Harj_13.csproj.CoreCompileInputs.cache
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\obj\Debug\net6.0-windows\Harj_13.dll
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\obj\Debug\net6.0-windows\refint\Harj_13.dll
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\obj\Debug\net6.0-windows\Harj_13.pdb
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\obj\Debug\net6.0-windows\Harj_13.genruntimeconfig.cache
+C:\Users\maximilian.hagman\source\repos\Harj_13\Harj_13\obj\Debug\net6.0-windows\ref\Harj_13.dll
