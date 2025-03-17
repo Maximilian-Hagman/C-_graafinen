@@ -1,0 +1,17 @@
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\obj\Debug\net6.0-windows\Harj_18.csproj.AssemblyReference.cache
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\obj\Debug\net6.0-windows\Harj_18.AvainhenkilotForm.resources
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\obj\Debug\net6.0-windows\Harj_18.csproj.GenerateResource.cache
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\obj\Debug\net6.0-windows\Harj_18.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\obj\Debug\net6.0-windows\Harj_18.AssemblyInfoInputs.cache
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\obj\Debug\net6.0-windows\Harj_18.AssemblyInfo.cs
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\obj\Debug\net6.0-windows\Harj_18.csproj.CoreCompileInputs.cache
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\bin\Debug\net6.0-windows\Harj_18.exe
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\bin\Debug\net6.0-windows\Harj_18.deps.json
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\bin\Debug\net6.0-windows\Harj_18.runtimeconfig.json
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\bin\Debug\net6.0-windows\Harj_18.dll
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\bin\Debug\net6.0-windows\Harj_18.pdb
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\obj\Debug\net6.0-windows\Harj_18.dll
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\obj\Debug\net6.0-windows\refint\Harj_18.dll
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\obj\Debug\net6.0-windows\Harj_18.pdb
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\obj\Debug\net6.0-windows\Harj_18.genruntimeconfig.cache
+C:\Users\maximilian.hagman\source\repos\Harj_18\Harj_18\obj\Debug\net6.0-windows\ref\Harj_18.dll
