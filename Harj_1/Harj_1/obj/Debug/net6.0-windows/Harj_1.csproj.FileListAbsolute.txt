@@ -1,0 +1,17 @@
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\bin\Debug\net6.0-windows\Harj_1.exe
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\bin\Debug\net6.0-windows\Harj_1.deps.json
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\bin\Debug\net6.0-windows\Harj_1.runtimeconfig.json
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\bin\Debug\net6.0-windows\Harj_1.dll
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\bin\Debug\net6.0-windows\Harj_1.pdb
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\obj\Debug\net6.0-windows\Harj_1.csproj.AssemblyReference.cache
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\obj\Debug\net6.0-windows\Harj_1.Form1.resources
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\obj\Debug\net6.0-windows\Harj_1.csproj.GenerateResource.cache
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\obj\Debug\net6.0-windows\Harj_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\obj\Debug\net6.0-windows\Harj_1.AssemblyInfoInputs.cache
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\obj\Debug\net6.0-windows\Harj_1.AssemblyInfo.cs
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\obj\Debug\net6.0-windows\Harj_1.csproj.CoreCompileInputs.cache
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\obj\Debug\net6.0-windows\Harj_1.dll
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\obj\Debug\net6.0-windows\refint\Harj_1.dll
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\obj\Debug\net6.0-windows\Harj_1.pdb
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\obj\Debug\net6.0-windows\Harj_1.genruntimeconfig.cache
+C:\Users\maximilian.hagman\source\repos\Harj_1\Harj_1\obj\Debug\net6.0-windows\ref\Harj_1.dll
